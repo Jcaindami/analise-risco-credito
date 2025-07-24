@@ -81,7 +81,7 @@ Para executar este projeto em seu ambiente local, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Jcainami/risco_credito](https://github.com/Jcainami/risco_credito)
+    git clone https://github.com/Jcaindami/analise-risco-credito
     cd risco_credito
     ```
 
